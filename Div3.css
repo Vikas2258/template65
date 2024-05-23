@@ -1,0 +1,260 @@
+.l-unconstrained-2 {
+    margin: 127px 0 0;
+    position: relative;
+}
+
+.l-constrained-2 {
+    margin: 0 auto;
+    position: relative;
+    width: 1600px;
+}
+
+.row-17 {
+    margin: 0 auto;
+    position: relative;
+    width: 592px;
+}
+
+.rectangle-8-copy-5 {
+    float: left;
+    height: 55px;
+    margin: 0 13px 0 0;
+    width: 9px;
+    background: #0f2480;
+}
+
+.text-51 {
+    margin: 5px 0 0;
+    color: #111110;
+    font-size: 2.5rem;
+    /* 40px / 16px = 2.5rem */
+    font-weight: bold;
+}
+
+.wrapper-19 {
+    height: 274px;
+    left: 9.5px;
+    margin: 64px auto 0;
+    position: relative;
+    width: 1301px;
+}
+
+.ellipse-2-holder {
+    left: 50%;
+    padding: 18px 0;
+    position: absolute;
+    top: 122px;
+    width: 50px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background: #0f2480;
+    margin-left: -628.5px;
+}
+
+.arrow-point-to-right {
+    display: block;
+    margin: 0 auto;
+}
+
+.ellipse-2-copy-holder {
+    left: 50%;
+    padding: 19px 0 17px;
+    position: absolute;
+    top: 107px;
+    width: 50px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background: #0f2480;
+    margin-left: 561.5px;
+}
+
+.arrow-point-to-right-copy {
+    display: block;
+    margin: 0 auto;
+}
+
+.row-8 {
+    left: 50%;
+    min-height: 274px;
+    padding: 48px 138px 30px;
+    position: absolute;
+    top: 0;
+    width: 1301px;
+    border: 1px solid #0f2480;
+    /*stroke*/
+    margin-left: -650.5px;
+}
+
+.wrapper-10 {
+    float: left;
+    height: 194px;
+    margin: 0 18px 0 0;
+    position: relative;
+    width: 149px;
+}
+
+.rectangle-32 {
+    height: 194px;
+    left: 50%;
+    position: absolute;
+    top: 0;
+    width: 67px;
+    background: #0f2480;
+    margin-left: -74.5px;
+}
+
+.rectangle-33 {
+    left: 50%;
+    position: absolute;
+    top: 26px;
+    width: 118px;
+    margin-left: -43.5px;
+}
+
+.wrapper-11 {
+    float: left;
+    margin: 45px 0 0;
+    position: relative;
+    width: 838px;
+}
+
+.rectangle-34 {
+    float: right;
+    height: 5px;
+    margin: 8px 693px 0 9px;
+    width: 45px;
+    background: #0f2480;
+}
+
+.majority {
+    margin: 0 0 0 4px;
+    color: #3a3a39;
+    font-size: 1.25rem;
+    /* 20px / 16px = 1.25rem */
+    font-weight: bold;
+}
+
+.text-52 {
+    clear: both;
+    margin: 15px auto 0;
+    color: #3a3a39;
+    font-size: 1.0625rem;
+    /* 17px / 16px = 1.0625rem */
+    line-height: 28px;
+}
+
+.row-9 {
+    margin: 136px 638px 0 690px;
+    position: relative;
+}
+
+.rectangle-8-copy-6 {
+    float: left;
+    height: 55px;
+    margin: 0 11px 0 0;
+    width: 9px;
+    background: #0f2480;
+}
+
+.text-53 {
+    margin: 10px 0 0;
+    color: #141416;
+    font-size: 2.5rem;
+    /* 40px / 16px = 2.5rem */
+    font-weight: bold;
+    text-align: left;
+}
+
+.row-6 {
+    margin: 72px 0 0;
+    position: relative;
+}
+
+.london-google-maps {
+    float: left;
+}
+
+.col-7 {
+    float: left;
+    min-height: 634px;
+    padding: 63px 40px 48px;
+    position: relative;
+    width: 806px;
+    background: #0f2480;
+}
+
+.rectangle-24-holder {
+    margin: 0 auto;
+    min-height: 56px;
+    padding: 0 21px;
+    position: relative;
+    right: 82.5px;
+    width: 561px;
+    background: #ffffff;
+    color: #2a2a2c;
+    font-size: 1.0625rem;
+    /* 17px / 16px = 1.0625rem */
+    line-height: 56px;
+}
+
+.rectangle-24-copy-holder {
+    margin: 33px auto 0;
+    min-height: 56px;
+    padding: 0 22px;
+    position: relative;
+    right: 82.5px;
+    width: 561px;
+    background: #ffffff;
+    color: #2a2a2c;
+    font-size: 1.0625rem;
+    /* 17px / 16px = 1.0625rem */
+    line-height: 56px;
+}
+
+.rectangle-24-copy-2-holder {
+    margin: 33px auto 0;
+    min-height: 56px;
+    padding: 0 20px;
+    position: relative;
+    right: 82px;
+    width: 562px;
+    background: #ffffff;
+    color: #2a2a2c;
+    font-size: 1.0625rem;
+    /* 17px / 16px = 1.0625rem */
+    line-height: 56px;
+}
+
+.rectangle-24-copy-3-holder {
+    margin: 33px auto 0;
+    min-height: 145px;
+    padding: 68px 21px 59px;
+    position: relative;
+    right: 82.5px;
+    width: 561px;
+    background: #ffffff;
+    color: #1f2020;
+    font-size: 1.0625rem;
+    /* 17px / 16px = 1.0625rem */
+}
+
+.rectangle-25-holder {
+    left: 71.5px;
+    margin: 44px auto 0;
+    min-height: 67px;
+    padding: 23px 86px 18px;
+    position: relative;
+    width: 253px;
+    -webkit-border-radius: 33.5px;
+    -moz-border-radius: 33.5px;
+    border-radius: 33.5px;
+    background: #f97616;
+    color: #f8faf9;
+    font-size: 1.5625rem;
+    /* 25px / 16px = 1.5625rem */
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+}
